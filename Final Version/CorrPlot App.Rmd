@@ -1,0 +1,133 @@
+---
+title: "SpenDifference - CP vs IP Analysis"
+output: html_document
+runtime: shiny
+---
+
+```{r global_options, echo=FALSE}
+knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
+```
+
+```{r libraries,echo=FALSE,warning=FALSE}
+#require(plotly)
+require(ggplot2)
+require(DataCombine)
+require(gridExtra)
+require(ggthemes)
+```
+
+
+```{r execute,echo=FALSE,cache=TRUE}
+com = read.csv("C:/Users/agovindakamath/Desktop/Comm.csv")
+
+items<-as.factor(unique(com$ASItemNo))
+
+for (i in 1:length(items)){
+  td<-com[com$ASItemNo==items[i],]
+  stdcom<-(td$CommodityPrice-mean(td$CommodityPrice))/sd(td$CommodityPrice)
+  com$stdcom[com$ASItemNo==items[i]]<-stdcom
+  
+  stditm<-(td$ItemPrice-mean(td$ItemPrice))/sd(td$ItemPrice)
+  com$stitm[com$ASItemNo==items[i]]<-stditm
+}
+
+com$MonthDate<-as.Date(com$MonthDate, "%m/%d/%Y")
+
+com<-slide(data=com, Var = 'stdcom', NewVar = 'stdcom1', GroupVar = 'ASItemNo', slideBy = -1)
+
+com<-slide(data=com, Var = 'stdcom1', NewVar = 'stdcom2', GroupVar = 'ASItemNo', slideBy = -1)
+
+com<-slide(data=com, Var = 'stdcom2', NewVar = 'stdcom3', GroupVar = 'ASItemNo', slideBy = -1)
+
+
+cor0<-cor1<-cor2<-cor3<-NULL
+for (j in 1:length(items)){
+  td<-com[com$ASItemNo==items[j],]
+  cor0[j]<-cor(td$stdcom,td$stitm,use="pairwise.complete.obs")
+  com$cor0[com$ASItemNo==items[j]]<-cor0[j]
+  
+  cor1[j]<-cor(td$stdcom1,td$stitm,use="pairwise.complete.obs")
+  com$cor1[com$ASItemNo==items[j]]<-cor1[j]
+  
+  cor2[j]<-cor(td$stdcom2,td$stitm,use="pairwise.complete.obs")
+  com$cor2[com$ASItemNo==items[j]]<-cor2[j]
+  
+  cor3[j]<-cor(td$stdcom3,td$stitm,use="pairwise.complete.obs")
+  com$cor3[com$ASItemNo==items[j]]<-cor3[j]
+}
+
+#Correlation Data Frame 
+  cordf<-data.frame(items,round(cor0,2),round(cor1,2),round(cor2,2),round(cor3,2))
+  names(cordf)<-c("ASItemNo","R Sqr","R Sqr 1 Lag","R Sqr 2 Lag","R Sqr 3 Lag")
+  
+#for (k in 1:length(items)){
+```
+
+```{r input,echo=FALSE}
+    itmchoices <- unique(com$ASItemNo)
+    selectInput("asitmno", "AS Item No:", choices = itmchoices)
+```
+
+
+```{r plots,echo=FALSE,plotly = TRUE}
+renderPlot({
+  
+tmpdf<-com[com$ASItemNo==input$asitmno,]
+
+#print("Plot of AS Item No: ",input$asitmno)
+#print(cordf[cordf$ASItemNo=input$asitmno,])
+
+g0<-ggplot() + 
+  geom_line(data = tmpdf, aes(y = stdcom, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor0*100,2),"%"))) + ylab('Price') + xlab('Month Date')+ggtitle("IP vs CP")+theme(axis.text.x=element_text(angle=50, vjust=0.5))+theme_dark()
+
+g1<-ggplot() + geom_line(data = tmpdf, aes(y = stdcom1, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor1*100,2),"%")))  +ylab('Price') + xlab('Month Date')+ggtitle("CP lagged by 1 month")+theme(axis.text.x=element_text(angle=50, vjust=0.5))+theme_gray()
+
+g2<-ggplot() +  geom_line(data = tmpdf, aes(y = stdcom2, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor2*100,2),"%"))) + ylab('Price') + xlab('Month Date')+ggtitle("CP lagged by 2 months")+theme(axis.text.x=element_text(angle=50, vjust=0.5))+theme_gray()
+
+g3<-ggplot() +  geom_line(data = tmpdf, aes(y = stdcom3, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor3*100,2),"%")))  + ylab('Price') + xlab('Month Date')+ggtitle("CP lagged by 3 months")+theme(axis.text.x=element_text(angle=50, vjust=0.5))+theme_gray()
+
+#ggplotly(g0)
+#print(g0)
+# print(paste0("Correlation Co-efficient for above relationship = ",round(cor0[k],2)))
+# print(g1)
+# print(paste0("Correlation Co-efficient for above relationship = ",round(cor1[k],2)))
+# print(g2)
+# print(paste0("Correlation Co-efficient for above relationship = ",round(cor2[k],2)))
+# print(g3)
+# print(paste0("Correlation Co-efficient for above relationship = ",round(cor3[k],2)))
+grid.arrange(g0, g1,g2,g3, nrow=2, ncol=2)
+#print(plot_grid(g0,g1,g2,g3, align='h'))
+#table(round(cor0[k],2),round(cor1[k],2),round(cor2[k],2),round(cor3[k],2))
+#}
+})
+```
+
+```{r temp_cordf,echo=FALSE}
+tcordf<-reactive({ 
+          cordf[cordf$ASItemNo==input$asitmno,]
+})
+```
+
+
+```{r temp_tcomdf,echo=FALSE}
+tcomdf<-reactive({ 
+          com[com$ASItemNo==input$asitmno,]
+})
+```
+
+
+```{r print_tcordf,echo=FALSE}
+renderUI({paste("You have selected AS Item No: ",tcordf()$ASItemNo)})
+renderUI({paste(" Correlation Co-eff with 0 Months lag: ", tcordf()$`R Sqr`)})
+renderUI({paste(" Correlation Co-eff with 1 Months lag: ", tcordf()$`R Sqr 1 Lag`)})
+renderUI({paste(" Correlation Co-eff with 2 Months lag: : ", tcordf()$`R Sqr 2 Lag`)})
+renderUI({paste(" Correlation Co-eff with 3 Months lag: : ", tcordf()$`R Sqr 3 Lag`)})
+```
+
+```{r print_tcomdf,echo=FALSE}
+renderText({paste("Item Name: ",tcomdf()$Commodity[1])})
+renderText({paste("Description: ",tcomdf()$Description[1])})
+renderText({paste("Spend: ",tcomdf()$Spend[1])})
+renderText({paste("Expiration Date: ",tcomdf()$ExpirationDate[1])})
+renderText({paste("Client Name: ",tcomdf()$Client[1])})
+```
