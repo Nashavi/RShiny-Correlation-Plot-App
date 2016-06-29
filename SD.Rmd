@@ -1,0 +1,98 @@
+---
+title: "SD"
+author: "Avi"
+date: "27 June 2016"
+output: html_document
+---
+
+```{r global_options, echo=FALSE}
+knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
+```
+
+```{r libraries,echo=FALSE}
+require(plotly)
+require(ggplot2)
+require(DataCombine)
+require(cowplot)
+require(gridExtra)
+require(devtools) 
+```
+
+
+```{r plots,echo=FALSE,cache=TRUE, plotly= TRUE}
+com = read.csv("~/Desktop/Comm.csv")
+
+items<-as.factor(unique(com$ASItemNo))
+
+for (i in 1:length(items)){
+  td<-com[com$ASItemNo==items[i],]
+  stdcom<-(td$CommodityPrice-mean(td$CommodityPrice))/sd(td$CommodityPrice)
+  com$stdcom[com$ASItemNo==items[i]]<-stdcom
+  
+  stditm<-(td$ItemPrice-mean(td$ItemPrice))/sd(td$ItemPrice)
+  com$stitm[com$ASItemNo==items[i]]<-stditm
+}
+
+com$MonthDate<-as.Date(com$MonthDate, "%m/%d/%Y")
+
+com<-slide(data=com, Var = 'stdcom', NewVar = 'stdcom1', GroupVar = 'ASItemNo', slideBy = -1)
+
+com<-slide(data=com, Var = 'stdcom1', NewVar = 'stdcom2', GroupVar = 'ASItemNo', slideBy = -1)
+
+com<-slide(data=com, Var = 'stdcom2', NewVar = 'stdcom3', GroupVar = 'ASItemNo', slideBy = -1)
+
+
+cor0<-cor1<-cor2<-cor3<-NULL
+for (j in 1:length(items)){
+  td<-com[com$ASItemNo==items[j],]
+  cor0[j]<-cor(td$stdcom,td$stitm,use="pairwise.complete.obs")
+  com$cor0[com$ASItemNo==items[j]]<-cor0[j]
+  
+  cor1[j]<-cor(td$stdcom1,td$stitm,use="pairwise.complete.obs")
+  com$cor1[com$ASItemNo==items[j]]<-cor1[j]
+  
+  cor2[j]<-cor(td$stdcom2,td$stitm,use="pairwise.complete.obs")
+  com$cor2[com$ASItemNo==items[j]]<-cor2[j]
+  
+  cor3[j]<-cor(td$stdcom3,td$stitm,use="pairwise.complete.obs")
+  com$cor3[com$ASItemNo==items[j]]<-cor3[j]
+}
+
+for (k in 1:length(items)){
+  
+tmpdf<-com[com$ASItemNo==items[k],]
+
+print(paste0("Plot of AS Item No: ",items[k]))
+
+g0<-ggplot() + 
+  geom_line(data = tmpdf, aes(y = stdcom, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor0*100,2),"%"))) + ylab('Price') + xlab('MonthDate')+ggtitle("Plot of IP vs CP")+theme_light()
+
+g1<-ggplot() + 
+  geom_line(data = tmpdf, aes(y = stdcom1, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor1*100,2),"%")))  +
+  ylab('Price') + xlab('MonthDate')+ggtitle("CP lagged by 1 month")+theme_light()
+
+g2<-ggplot() + 
+  geom_line(data = tmpdf, aes(y = stdcom2, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor2*100,2),"%")))  +
+  ylab('Price') + xlab('MonthDate')+ggtitle("CP lagged by 2 months")+theme_light()
+
+g3<-ggplot() + 
+  geom_line(data = tmpdf, aes(y = stdcom3, x = MonthDate, color = "Commodity Price")) +geom_line(data = tmpdf, aes(y = stitm, x = MonthDate, color = "Item Price",text = paste("R2 value:",round(cor3*100,2),"%")))  +
+  ylab('Price') + xlab('MonthDate')+ggtitle("CP lagged by 3 months")+theme_light()
+
+#ggplotly(g0)
+print(g0)
+print(paste0("Correlation Co-efficient for above relationship = ",round(cor0[k],2)))
+print(g1)
+print(paste0("Correlation Co-efficient for above relationship = ",round(cor1[k],2)))
+print(g2)
+print(paste0("Correlation Co-efficient for above relationship = ",round(cor2[k],2)))
+print(g3)
+print(paste0("Correlation Co-efficient for above relationship = ",round(cor3[k],2)))
+paste0("")
+grid.arrange(g0, g1,g2,g3, nrow=2, ncol=2)
+#print(plot_grid(g0,g1,g2,g3, align='h'))
+#table(round(cor0[k],2),round(cor1[k],2),round(cor2[k],2),round(cor3[k],2))
+}
+```
+
+

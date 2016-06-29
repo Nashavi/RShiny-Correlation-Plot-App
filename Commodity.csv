@@ -1,0 +1,729 @@
+Commodity,CommodityPrice,ItemPrice,Client,MonthDate,ASItemNo,Description,ContractType,ExpirationDate,Spend,L2 Category,L3 Category
+KC Wheat (HRW),630.85,24.026315,Auntie Anne's,01/01/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),664.6875,24.026315,Auntie Anne's,01/02/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),737.3125,24.026315,Auntie Anne's,01/03/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),744.875,24.852778,Auntie Anne's,01/04/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),786.3,24.914207,Auntie Anne's,01/05/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),718.6875,24.921708,Auntie Anne's,01/06/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),656,25.002325,Auntie Anne's,01/07/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),625.6875,24.768718,Auntie Anne's,01/08/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),598.775,24.646036,Auntie Anne's,01/09/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),584.4,24.460318,Auntie Anne's,01/10/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),592.8125,24.07701,Auntie Anne's,01/11/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),652.0625,24.026315,Auntie Anne's,01/12/14,4401833,"MIX, PRETZEL ORIG",Client Contr,01/03/15,8699129.89,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),601.55,23.769564,Auntie Anne's,01/01/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),548.1875,23.745067,Auntie Anne's,01/02/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),546.4375,24.010095,Auntie Anne's,01/03/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),536.1,23.907782,Auntie Anne's,01/04/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),521.625,23.845695,Auntie Anne's,01/05/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),519.875,23.851502,Auntie Anne's,01/06/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),551.2,23.757817,Auntie Anne's,01/07/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),487.875,23.732018,Auntie Anne's,01/08/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),481.875,23.717551,Auntie Anne's,01/09/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),492.35,23.643616,Auntie Anne's,01/10/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),472.1875,23.644294,Auntie Anne's,01/11/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),471.85,23.635808,Auntie Anne's,01/12/15,4401833,PRETZEL MIX ORGNL,Client Contr,01/03/16,12718793.85,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),465.8125,23.320671,Auntie Anne's,01/01/16,4401833,"MIX, PRETZEL ORIG",Client Contr,NULL,12719313.05,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),454.1875,23.185539,Auntie Anne's,01/02/16,4401833,"MIX, PRETZEL ORIG",Client Contr,NULL,12719313.05,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),471.3,23.444252,Auntie Anne's,01/03/16,4401833,"MIX, PRETZEL ORIG",Client Contr,NULL,12719313.05,Grains Doughs & Batters,Batters & Base Mixes
+KC Wheat (HRW),461.5625,23.444252,Auntie Anne's,01/04/16,4401833,"MIX, PRETZEL ORIG",Client Contr,NULL,12719313.05,Grains Doughs & Batters,Batters & Base Mixes
+Beef 50s,1.1484,111.67,Auntie Anne's,01/01/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.24,106.777221,Auntie Anne's,01/02/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.615,106.776905,Auntie Anne's,01/03/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.3762,108.783884,Auntie Anne's,01/04/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.3661,123.733072,Auntie Anne's,01/05/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.3638,126.420342,Auntie Anne's,01/06/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.4368,121.901237,Auntie Anne's,01/07/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.5327,113.722281,Auntie Anne's,01/08/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.3002,113.094301,Auntie Anne's,01/09/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.1978,123.687807,Auntie Anne's,01/10/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.2598,130.828518,Auntie Anne's,01/11/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.1292,130.836675,Auntie Anne's,01/12/14,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/15,6200991.04,Protein,Meat Products
+Beef 50s,1.391,130.447836,Auntie Anne's,01/01/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,1.0802,117.27333,Auntie Anne's,01/02/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.9825,114.718512,Auntie Anne's,01/03/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,1.276,109.629473,Auntie Anne's,01/04/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,1.0825,106.424659,Auntie Anne's,01/05/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.9469,106.410976,Auntie Anne's,01/06/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.7514,107.65413,Auntie Anne's,01/07/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.7902,106.928185,Auntie Anne's,01/08/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.6413,107.145367,Auntie Anne's,01/09/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.581,99.331805,Auntie Anne's,01/10/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.5878,97.966027,Auntie Anne's,01/11/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.4975,96.809381,Auntie Anne's,01/12/15,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/03/16,8984980.68,Protein,Meat Products
+Beef 50s,0.8063,82.072377,Auntie Anne's,01/01/16,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/06/16,8986233.75,Protein,Meat Products
+Beef 50s,0.6065,79.704682,Auntie Anne's,01/02/16,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/06/16,8986233.75,Protein,Meat Products
+Beef 50s,1.0765,79.381204,Auntie Anne's,01/03/16,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/06/16,8986233.75,Protein,Meat Products
+Beef 50s,0.8776,89.539401,Auntie Anne's,01/04/16,4401975,"HOT DOG, MINI COCKTAIL DOGS",Contract,01/06/16,8986233.75,Protein,Meat Products
+CME Butter,1.7514,75.006371,Carvel,01/01/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,1.8033,75.552156,Carvel,01/02/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,1.9102,74.664693,Carvel,01/03/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,1.9391,70.500242,Carvel,01/04/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,2.1461,56.155112,Carvel,01/05/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,2.2511,55.107164,Carvel,01/06/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,2.4603,56.057811,Carvel,01/07/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,2.6009,56.740276,Carvel,01/08/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,2.9677,59.826863,Carvel,01/09/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,2.3671,60.544442,Carvel,01/10/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,1.9964,60.724467,Carvel,01/11/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,1.7834,60.724467,Carvel,01/12/14,4385473,"ICE CREAM MIX, VANILLA",Pre SD,01/12/21,7467798.49,Confections & Desserts,Frozen Desserts
+CME Butter,1.5667,60.566998,Carvel,01/01/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.7272,60.906722,Carvel,01/02/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.7123,60.611477,Carvel,01/03/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.7926,56.430809,Carvel,01/04/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.9425,55.585009,Carvel,01/05/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.91,51.090547,Carvel,01/06/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.9077,52.8346,Carvel,01/07/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.1444,52.713128,Carvel,01/08/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.6338,54.050599,Carvel,01/09/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.4641,55.063734,Carvel,01/10/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.879,54.998698,Carvel,01/11/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.3311,55.130766,Carvel,01/12/15,4385473,"ICE CREAM MIX, VANILLA",Contract,01/02/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.1225,55.033787,Carvel,01/01/16,4385473,"ICE CREAM MIX, VANILLA",Contract,01/05/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.0883,54.970745,Carvel,01/02/16,4385473,"ICE CREAM MIX, VANILLA",Contract,01/05/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,1.9597,55.487443,Carvel,01/03/16,4385473,"ICE CREAM MIX, VANILLA",Contract,01/05/16,10698013.95,Confections & Desserts,Frozen Desserts
+CME Butter,2.0611,54.214802,Carvel,01/04/16,4385473,"ICE CREAM MIX, VANILLA",Contract,01/05/16,10698013.95,Confections & Desserts,Frozen Desserts
+MPLS Wheat (HRS),617.9,35.33601,Cinnabon,01/01/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),656.6875,35.342435,Cinnabon,01/02/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),735.625,35.36192,Cinnabon,01/03/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),716.6875,35.738508,Cinnabon,01/04/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),757.25,35.724635,Cinnabon,01/05/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),686.125,35.607135,Cinnabon,01/06/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),630.25,35.250298,Cinnabon,01/07/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),621.125,35.117934,Cinnabon,01/08/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),577.5,35.170971,Cinnabon,01/09/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),564.9,35.339593,Cinnabon,01/10/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),583.375,35.336144,Cinnabon,01/11/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),631.0625,35.356482,Cinnabon,01/12/14,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/15,5525607.47,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),589.75,35.092322,Cinnabon,01/01/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),571.9375,34.891696,Cinnabon,01/02/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),572.875,34.743096,Cinnabon,01/03/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),559.5,33.745872,Cinnabon,01/04/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),548,33.484801,Cinnabon,01/05/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),556.75,33.383479,Cinnabon,01/06/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),585.7,33.651249,Cinnabon,01/07/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),517.25,33.831911,Cinnabon,01/08/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),503.9375,33.77952,Cinnabon,01/09/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),522.944,33.726794,Cinnabon,01/10/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),509.3125,33.582302,Cinnabon,01/11/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),506.85,33.750368,Cinnabon,01/12/15,3282471,"ZT FTO Classic Rolls, V5, 60/8oz",Contract,01/03/16,6365523.46,Grains Doughs & Batters,Muffins
+MPLS Wheat (HRS),493.5,33.633642,Cinnabon,01/01/16,3282471,"ZT FTO CLASSIC ROLLS, V5, 60/8 OZ",Contract,01/06/16,6463526.09,Grains Doughs & Batters,Doughs
+MPLS Wheat (HRS),491.375,33.520959,Cinnabon,01/02/16,3282471,"ZT FTO CLASSIC ROLLS, V5, 60/8 OZ",Contract,01/06/16,6463526.09,Grains Doughs & Batters,Doughs
+MPLS Wheat (HRS),508.55,33.455904,Cinnabon,01/03/16,3282471,"ZT FTO CLASSIC ROLLS, V5, 60/8 OZ",Contract,01/06/16,6463526.09,Grains Doughs & Batters,Doughs
+MPLS Wheat (HRS),523.75,32.660154,Cinnabon,01/04/16,3282471,"ZT FTO CLASSIC ROLLS, V5, 60/8 OZ",Contract,01/06/16,6463526.09,Grains Doughs & Batters,Doughs
+PPI Seeds and Nuts,216.7,132.134782,Cinnabon,01/01/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,215.8,146.388636,Cinnabon,01/02/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,220.6,134.04923,Cinnabon,01/03/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,220.8,131.354673,Cinnabon,01/04/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,220.5,134.071969,Cinnabon,01/05/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,220.8,129.479289,Cinnabon,01/06/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,221.2,132.655247,Cinnabon,01/07/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,221.9,134.518669,Cinnabon,01/08/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,223.1,136.13035,Cinnabon,01/09/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,229.4,132.839478,Cinnabon,01/10/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,230.9,132.817258,Cinnabon,01/11/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,230,132.144904,Cinnabon,01/12/14,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Pre SD,01/01/16,326345.73,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,231.7,131.472042,Cinnabon,01/01/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,236.2,138.179304,Cinnabon,01/02/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,235.6,139.291032,Cinnabon,01/03/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238,138.730317,Cinnabon,01/04/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,237.8,139.917251,Cinnabon,01/05/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.1,140.312635,Cinnabon,01/06/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.5,140.372589,Cinnabon,01/07/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.4,139.868778,Cinnabon,01/08/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,236.2,140.05008,Cinnabon,01/09/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.8,140.164421,Cinnabon,01/10/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,237.5,139.979072,Cinnabon,01/11/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,234.9,159.551212,Cinnabon,01/12/15,2002474,"Pecans Pieces, Med, Oil Roasted & Salted, 30LB",Contract,01/02/16,1175336.77,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,237.7595,186.94698,Cinnabon,01/01/16,2002474,"PECAN PIECES, MED, OIL ROASTED & SALTED, 30 LB",Contract,01/12/16,1184221.89,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.7405,190.338648,Cinnabon,01/02/16,2002474,"PECAN PIECES, MED, OIL ROASTED & SALTED, 30 LB",Contract,01/12/16,1184221.89,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.8547,205.207416,Cinnabon,01/03/16,2002474,"PECAN PIECES, MED, OIL ROASTED & SALTED, 30 LB",Contract,01/12/16,1184221.89,Processed Produce & Nuts,Nuts
+PPI Seeds and Nuts,238.7891,204.552279,Cinnabon,01/04/16,2002474,"PECAN PIECES, MED, OIL ROASTED & SALTED, 30 LB",Contract,01/12/16,1184221.89,Processed Produce & Nuts,Nuts
+Corn,429.3,63.092157,Dream Dinners,01/01/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,445.8125,58.846086,Dream Dinners,01/02/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,479.4375,58.334696,Dream Dinners,01/03/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,498.1875,57.677106,Dream Dinners,01/04/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,491.62,56.295102,Dream Dinners,01/05/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,450.5,56.071439,Dream Dinners,01/06/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,387.6,61.531678,Dream Dinners,01/07/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,359.0625,65.116122,Dream Dinners,01/08/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,341.975,66.661143,Dream Dinners,01/09/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,343.1,70.233221,Dream Dinners,01/10/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,371.9375,71.992501,Dream Dinners,01/11/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+Corn,400.0625,72.052178,Dream Dinners,01/12/14,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/15,1584749.45,Protein,Chicken - Fresh
+BLSL,141.88,71.260505,Dream Dinners,01/01/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,141.8,70.177794,Dream Dinners,01/02/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,146.2,69.507374,Dream Dinners,01/03/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,160.04,67.455983,Dream Dinners,01/04/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,164.075,60.509593,Dream Dinners,01/05/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,145.2,60.448217,Dream Dinners,01/06/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,135.64,62.786797,Dream Dinners,01/07/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,147.5,62.85576,Dream Dinners,01/08/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,130.075,62.875947,Dream Dinners,01/09/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,111.24,63.402899,Dream Dinners,01/10/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,109.6,63.402534,Dream Dinners,01/11/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,109,63.386978,Dream Dinners,01/12/15,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/04/16,1605463.52,Protein,Chicken - Fresh
+BLSL,115,61.218634,Dream Dinners,01/01/16,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/12/16,1605463.52,Protein,Chicken - Fresh
+BLSL,113.2,61.224555,Dream Dinners,01/02/16,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/12/16,1605463.52,Protein,Chicken - Fresh
+BLSL,117.64,61.212227,Dream Dinners,01/03/16,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/12/16,1605463.52,Protein,Chicken - Fresh
+BLSL,122.8,61.196262,Dream Dinners,01/04/16,2923079,CHICKEN BRST BNL/SKL FIL RAW,Contract,01/12/16,1605463.52,Protein,Chicken - Fresh
+Beef Loin Primal,2.588,42.047473,HuHot Mongolian Grill,01/01/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,2.6044,41.98209,HuHot Mongolian Grill,01/02/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.1361,41.986033,HuHot Mongolian Grill,01/03/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.1265,41.892911,HuHot Mongolian Grill,01/04/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.1345,41.89379,HuHot Mongolian Grill,01/05/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.1821,41.923683,HuHot Mongolian Grill,01/06/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.239,41.954495,HuHot Mongolian Grill,01/07/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.1371,41.968737,HuHot Mongolian Grill,01/08/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,3.052,41.935382,HuHot Mongolian Grill,01/09/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,2.953,41.932783,HuHot Mongolian Grill,01/10/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,2.9994,41.938322,HuHot Mongolian Grill,01/11/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Loin Primal,2.8979,41.941161,HuHot Mongolian Grill,01/12/14,3248600,Sliced Beef Lifter Meat,Contract,01/02/15,2936175.86,Protein,Beef
+Beef Rib Primal,3.3541,53.627619,HuHot Mongolian Grill,01/01/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.3217,57.833411,HuHot Mongolian Grill,01/02/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.6166,56.088442,HuHot Mongolian Grill,01/03/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.8553,55.133622,HuHot Mongolian Grill,01/04/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.8145,54.906423,HuHot Mongolian Grill,01/05/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.5781,54.770647,HuHot Mongolian Grill,01/06/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.3236,54.763293,HuHot Mongolian Grill,01/07/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.4018,54.768906,HuHot Mongolian Grill,01/08/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.2635,54.761537,HuHot Mongolian Grill,01/09/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.1609,54.753404,HuHot Mongolian Grill,01/10/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.6127,52.323713,HuHot Mongolian Grill,01/11/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.549,51.418856,HuHot Mongolian Grill,01/12/15,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.2335,51.388233,HuHot Mongolian Grill,01/01/16,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.3364,51.424775,HuHot Mongolian Grill,01/02/16,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.6053,51.420665,HuHot Mongolian Grill,01/03/16,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Beef Rib Primal,3.329,51.401406,HuHot Mongolian Grill,01/04/16,3248600,Sliced Beef Lifter Meat,Contract,01/12/16,3358853.14,Protein,Beef
+Pork Cutout,0.8311,24.430778,HuHot Mongolian Grill,01/01/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,0.9122,24.368615,HuHot Mongolian Grill,01/02/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.1621,24.363675,HuHot Mongolian Grill,01/03/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.2133,24.305322,HuHot Mongolian Grill,01/04/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.099,24.186656,HuHot Mongolian Grill,01/05/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.1898,24.175485,HuHot Mongolian Grill,01/06/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.2922,24.166903,HuHot Mongolian Grill,01/07/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.0912,24.402136,HuHot Mongolian Grill,01/08/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.0414,25.067011,HuHot Mongolian Grill,01/09/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,1.084,24.123594,HuHot Mongolian Grill,01/10/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,0.9131,23.951636,HuHot Mongolian Grill,01/11/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,0.8723,23.986763,HuHot Mongolian Grill,01/12/14,3757295,Sliced Pork - 10% marinated,Contract,01/02/15,688614.73,Protein,Pork
+Pork Cutout,0.8091,28.115665,HuHot Mongolian Grill,01/01/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.7074,28.020564,HuHot Mongolian Grill,01/02/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.686,26.444611,HuHot Mongolian Grill,01/03/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.6732,26.046909,HuHot Mongolian Grill,01/04/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.8122,25.832663,HuHot Mongolian Grill,01/05/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.8394,25.692247,HuHot Mongolian Grill,01/06/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.8218,25.691011,HuHot Mongolian Grill,01/07/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.8794,25.691425,HuHot Mongolian Grill,01/08/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.8452,25.683191,HuHot Mongolian Grill,01/09/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.8599,25.67458,HuHot Mongolian Grill,01/10/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.7396,25.493571,HuHot Mongolian Grill,01/11/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.711,25.419059,HuHot Mongolian Grill,01/12/15,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.7241,25.421686,HuHot Mongolian Grill,01/01/16,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.7556,25.422854,HuHot Mongolian Grill,01/02/16,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.7493,25.421978,HuHot Mongolian Grill,01/03/16,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+Pork Cutout,0.7779,25.402123,HuHot Mongolian Grill,01/04/16,3757295,Sliced Pork - 10% marinated,Contract,01/12/16,822116.09,Protein,Pork
+PPI Shrimp,160.9,95.44,HuHot Mongolian Grill,01/01/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,164,95.44,HuHot Mongolian Grill,01/02/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,164,95.44,HuHot Mongolian Grill,01/03/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,167.7,95.44,HuHot Mongolian Grill,01/04/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,168.6,95.44,HuHot Mongolian Grill,01/05/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,169.6,95.44,HuHot Mongolian Grill,01/06/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,178,95.44,HuHot Mongolian Grill,01/07/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,178.8,95.44,HuHot Mongolian Grill,01/08/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,172.3,95.44,HuHot Mongolian Grill,01/09/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,164.3,95.44,HuHot Mongolian Grill,01/10/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,135.6,95.44,HuHot Mongolian Grill,01/11/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,135,98.529987,HuHot Mongolian Grill,01/12/14,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/15,435397.14,Protein,Fish & Seafood
+PPI Shrimp,136,117.9817,HuHot Mongolian Grill,01/01/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,136.3,95.027826,HuHot Mongolian Grill,01/02/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,136.8,98.023385,HuHot Mongolian Grill,01/03/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,135.1,96.801054,HuHot Mongolian Grill,01/04/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,133.9,96.946268,HuHot Mongolian Grill,01/05/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,131.2,97.480576,HuHot Mongolian Grill,01/06/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,110.9,94.221212,HuHot Mongolian Grill,01/07/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,89.3,90.237814,HuHot Mongolian Grill,01/08/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,76.8,89.886506,HuHot Mongolian Grill,01/09/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,86.1,89.827372,HuHot Mongolian Grill,01/10/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,83.5,89.838184,HuHot Mongolian Grill,01/11/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,94.4,89.835912,HuHot Mongolian Grill,01/12/15,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,91.6923,89.841973,HuHot Mongolian Grill,01/01/16,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,90.5044,89.841367,HuHot Mongolian Grill,01/02/16,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,90.2763,89.840324,HuHot Mongolian Grill,01/03/16,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+PPI Shrimp,91.1273,88.751881,HuHot Mongolian Grill,01/04/16,3617916,"Shrimp, raw 71/90 P&D Tail Off White Seamazz",Contract,01/06/16,496197.31,Protein,Fish & Seafood
+MPLS Wheat (HRS),617.9,33.79423,HuHot Mongolian Grill,01/01/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),656.6875,33.79423,HuHot Mongolian Grill,01/02/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),735.625,33.79423,HuHot Mongolian Grill,01/03/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),716.6875,33.79423,HuHot Mongolian Grill,01/04/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),757.25,33.79423,HuHot Mongolian Grill,01/05/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),686.125,10.65,HuHot Mongolian Grill,01/06/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),630.25,32.98,HuHot Mongolian Grill,01/07/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),621.125,34.9,HuHot Mongolian Grill,01/08/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),577.5,42.862886,HuHot Mongolian Grill,01/09/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),564.9,34.07877,HuHot Mongolian Grill,01/10/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),583.375,34.000468,HuHot Mongolian Grill,01/11/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),631.0625,33.79423,HuHot Mongolian Grill,01/12/14,4304445,Steamed Noodles,Contract,01/06/15,57047.09,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),589.75,33.419473,HuHot Mongolian Grill,01/01/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),571.9375,32.558223,HuHot Mongolian Grill,01/02/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),572.875,33.948596,HuHot Mongolian Grill,01/03/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),559.5,34.137941,HuHot Mongolian Grill,01/04/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),548,34.265152,HuHot Mongolian Grill,01/05/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),556.75,33.192888,HuHot Mongolian Grill,01/06/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),585.7,33.322496,HuHot Mongolian Grill,01/07/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),517.25,33.460541,HuHot Mongolian Grill,01/08/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),503.9375,33.411521,HuHot Mongolian Grill,01/09/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),522.944,33.378282,HuHot Mongolian Grill,01/10/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),509.3125,32.956356,HuHot Mongolian Grill,01/11/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),506.85,33.276059,HuHot Mongolian Grill,01/12/15,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),493.5,31.4989,HuHot Mongolian Grill,01/01/16,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),491.375,31.478823,HuHot Mongolian Grill,01/02/16,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),508.55,30.607439,HuHot Mongolian Grill,01/03/16,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),523.75,31.368888,HuHot Mongolian Grill,01/04/16,4304445,Steamed Noodles,Contract,01/12/16,256099.62,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),617.9,13.5671,HuHot Mongolian Grill,01/01/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),656.6875,13.482098,HuHot Mongolian Grill,01/02/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),735.625,13.414549,HuHot Mongolian Grill,01/03/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),716.6875,13.263788,HuHot Mongolian Grill,01/04/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),757.25,13.395643,HuHot Mongolian Grill,01/05/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),686.125,13.23537,HuHot Mongolian Grill,01/06/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),630.25,13.292704,HuHot Mongolian Grill,01/07/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),621.125,13.224785,HuHot Mongolian Grill,01/08/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),577.5,14.677936,HuHot Mongolian Grill,01/09/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),564.9,15.096903,HuHot Mongolian Grill,01/10/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),583.375,14.632748,HuHot Mongolian Grill,01/11/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),631.0625,13.184116,HuHot Mongolian Grill,01/12/14,3819440,Crispy Noodles Wing Hing,Contract,01/06/15,114357.71,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),589.75,14.821806,HuHot Mongolian Grill,01/01/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),571.9375,13.547366,HuHot Mongolian Grill,01/02/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),572.875,14.155531,HuHot Mongolian Grill,01/03/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),559.5,14.110497,HuHot Mongolian Grill,01/04/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),548,13.751046,HuHot Mongolian Grill,01/05/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),556.75,13.825702,HuHot Mongolian Grill,01/06/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),585.7,13.775402,HuHot Mongolian Grill,01/07/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),517.25,13.805873,HuHot Mongolian Grill,01/08/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),503.9375,14.37625,HuHot Mongolian Grill,01/09/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),522.944,13.591726,HuHot Mongolian Grill,01/10/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),509.3125,13.957922,HuHot Mongolian Grill,01/11/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),506.85,13.955714,HuHot Mongolian Grill,01/12/15,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),493.5,13.71463,HuHot Mongolian Grill,01/01/16,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),491.375,13.860381,HuHot Mongolian Grill,01/02/16,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),508.55,13.86561,HuHot Mongolian Grill,01/03/16,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+MPLS Wheat (HRS),523.75,13.868117,HuHot Mongolian Grill,01/04/16,3819440,Crispy Noodles Wing Hing,Contract,01/12/16,127992.14,Grains Doughs & Batters,Pasta
+Pork Bellies,110.94,82.36311,McAlister's Deli,01/01/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,128.75,82.20828,McAlister's Deli,01/02/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,170.25,82.208595,McAlister's Deli,01/03/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,188.9,87.503773,McAlister's Deli,01/04/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,147.4,90.050358,McAlister's Deli,01/05/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,158.1,88.268119,McAlister's Deli,01/06/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,165.72,85.075773,McAlister's Deli,01/07/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,124.35,83.921388,McAlister's Deli,01/08/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,105.775,83.902182,McAlister's Deli,01/09/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,112.24,78.889466,McAlister's Deli,01/10/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,97.55,76.405608,McAlister's Deli,01/11/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,100.225,76.405608,McAlister's Deli,01/12/14,3413591,Thick Cut Applewood Smoked PC Bacon,Pre SD,01/03/15,5023116.37,Protein,Pork
+Pork Bellies,104.3,68.801816,McAlister's Deli,01/01/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,91.55,66.86339,McAlister's Deli,01/02/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,74.95,66.925747,McAlister's Deli,01/03/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,67.76,64.244797,McAlister's Deli,01/04/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,77.925,64.247628,McAlister's Deli,01/05/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,103.45,64.252709,McAlister's Deli,01/06/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,136.44,53.512365,McAlister's Deli,01/07/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,171.45,53.434677,McAlister's Deli,01/08/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,161.75,53.464724,McAlister's Deli,01/09/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,160.48,81.985946,McAlister's Deli,01/10/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,122.325,82.053059,McAlister's Deli,01/11/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,109.68,82.032057,McAlister's Deli,01/12/15,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/03/16,4964754.61,Protein,Pork
+Pork Bellies,114.05,82.019569,McAlister's Deli,01/01/16,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/06/16,4965081.81,Protein,Pork
+Pork Bellies,126.6,81.984535,McAlister's Deli,01/02/16,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/06/16,4965081.81,Protein,Pork
+Pork Bellies,132.84,81.980874,McAlister's Deli,01/03/16,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/06/16,4965081.81,Protein,Pork
+Pork Bellies,129,73.463943,McAlister's Deli,01/04/16,3413591,Thick Cut Applewood Smoked PC Bacon,Contract,01/06/16,4965081.81,Protein,Pork
+Beef Round Primal,2.1804,61.684001,McAlister's Deli,01/01/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.079,59.291936,McAlister's Deli,01/02/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.251,67.287593,McAlister's Deli,01/03/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,1.971,68.085535,McAlister's Deli,01/04/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,1.851,72.987035,McAlister's Deli,01/05/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,1.8712,67.757937,McAlister's Deli,01/06/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.2256,62.56382,McAlister's Deli,01/07/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.4422,63.446048,McAlister's Deli,01/08/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.2338,71.996577,McAlister's Deli,01/09/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.3204,72.831914,McAlister's Deli,01/10/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.2793,72.075231,McAlister's Deli,01/11/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.3418,72.075231,McAlister's Deli,01/12/14,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/01/15,7108767.23,Protein,Beef
+Beef Round Primal,2.3956,5.514181,McAlister's Deli,01/01/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.2447,5.445698,McAlister's Deli,01/02/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.2504,5.345889,McAlister's Deli,01/03/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.1908,5.383749,McAlister's Deli,01/04/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.1861,5.30616,McAlister's Deli,01/05/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.1997,5.327483,McAlister's Deli,01/06/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.1998,5.435453,McAlister's Deli,01/07/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.228,5.451959,McAlister's Deli,01/08/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.0897,5.398691,McAlister's Deli,01/09/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,1.8888,5.491016,McAlister's Deli,01/10/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,1.797,4.932241,McAlister's Deli,01/11/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,1.7187,4.556913,McAlister's Deli,01/12/15,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/02/16,8397177.91,Protein,Beef
+Beef Round Primal,2.1548,4.366823,McAlister's Deli,01/01/16,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/05/16,8397528.3,Protein,Beef
+Beef Round Primal,2.0435,4.171799,McAlister's Deli,01/02/16,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/05/16,8397528.3,Protein,Beef
+Beef Round Primal,1.8145,4.937152,McAlister's Deli,01/03/16,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/05/16,8397528.3,Protein,Beef
+Beef Round Primal,1.7465,4.900071,McAlister's Deli,01/04/16,2467277,"ROAST BEEF, BLACK ANGUS",Contract,01/05/16,8397528.3,Protein,Beef
+Turkey Breast,216,40.602554,McAlister's Deli,01/01/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,216.15,40.703935,McAlister's Deli,01/02/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,242,40.759397,McAlister's Deli,01/03/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,321.4375,41.193614,McAlister's Deli,01/04/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,354.76,40.952057,McAlister's Deli,01/05/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,372,40.972105,McAlister's Deli,01/06/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,400.35,41.784463,McAlister's Deli,01/07/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,405,42.621966,McAlister's Deli,01/08/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,405,42.463506,McAlister's Deli,01/09/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,397.8,40.879194,McAlister's Deli,01/10/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,392,40.587264,McAlister's Deli,01/11/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,385.6675,40.587264,McAlister's Deli,01/12/14,3835698,Smoked Turkey Breast,Contract,01/12/15,5964814.77,Protein,Turkey
+Turkey Breast,352.75,2.175917,McAlister's Deli,01/01/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,309,2.187149,McAlister's Deli,01/02/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,293.1,2.199115,McAlister's Deli,01/03/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,308.04,2.210246,McAlister's Deli,01/04/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,375,2.223809,McAlister's Deli,01/05/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,444,2.225463,McAlister's Deli,01/06/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,519.25,2.225284,McAlister's Deli,01/07/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,563.75,2.225204,McAlister's Deli,01/08/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,571,2.223474,McAlister's Deli,01/09/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,579.2,2.221713,McAlister's Deli,01/10/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,585,2.220925,McAlister's Deli,01/11/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,573.25,2.220657,McAlister's Deli,01/12/15,3835698,Smoked Turkey Breast,Contract,01/12/16,7325714.88,Protein,Turkey
+Turkey Breast,525.25,2.503105,McAlister's Deli,01/01/16,3835698,Smoked Turkey Breast,Contract,01/12/16,7325998.51,Protein,Turkey
+Turkey Breast,381.75,2.508727,McAlister's Deli,01/02/16,3835698,Smoked Turkey Breast,Contract,01/12/16,7325998.51,Protein,Turkey
+Turkey Breast,325,2.508792,McAlister's Deli,01/03/16,3835698,Smoked Turkey Breast,Contract,01/12/16,7325998.51,Protein,Turkey
+Turkey Breast,261.25,2.510663,McAlister's Deli,01/04/16,3835698,Smoked Turkey Breast,Contract,01/12/16,7325998.51,Protein,Turkey
+CME Cheese,2.1979,46.294702,McAlister's Deli,01/01/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.1894,49.056087,McAlister's Deli,01/02/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.3539,54.537399,McAlister's Deli,01/03/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.2612,54.229058,McAlister's Deli,01/04/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.0326,56.875828,McAlister's Deli,01/05/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.0249,56.224193,McAlister's Deli,01/06/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,1.9879,52.624297,McAlister's Deli,01/07/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.1911,49.870361,McAlister's Deli,01/08/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.363,49.66219,McAlister's Deli,01/09/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,2.1952,52.748008,McAlister's Deli,01/10/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,1.9276,54.194682,McAlister's Deli,01/11/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,1.6029,54.194682,McAlister's Deli,01/12/14,3893296,"CHEESE, CHEDDAR MILD SHRED FEATHER PLASTIC YELLOW",Contract,01/01/15,3585355.29,Dairy,Cheese
+CME Cheese,1.5205,48.149572,McAlister's Deli,01/01/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.5383,41.496341,McAlister's Deli,01/02/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.553,38.887736,McAlister's Deli,01/03/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.5881,40.388411,McAlister's Deli,01/04/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.6356,41.115441,McAlister's Deli,01/05/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.7134,41.487837,McAlister's Deli,01/06/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.6609,43.423344,McAlister's Deli,01/07/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.7101,43.558222,McAlister's Deli,01/08/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.6703,43.639549,McAlister's Deli,01/09/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.6629,43.876842,McAlister's Deli,01/10/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.6159,43.56959,McAlister's Deli,01/11/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.4636,43.842478,McAlister's Deli,01/12/15,3893296,"Cheese, Cheddar/Jack 50/50 Shred, Feather",Contract,01/02/16,3669072.49,Dairy,Cheese
+CME Cheese,1.4757,41.610765,McAlister's Deli,01/01/16,3893296,"CHEESE, CHEDDAR/JACK 50/50 SHRED, FEATHER",Contract,01/05/16,3669249.69,Dairy,Cheese
+CME Cheese,1.4749,41.743966,McAlister's Deli,01/02/16,3893296,"CHEESE, CHEDDAR/JACK 50/50 SHRED, FEATHER",Contract,01/05/16,3669249.69,Dairy,Cheese
+CME Cheese,1.4867,41.737294,McAlister's Deli,01/03/16,3893296,"CHEESE, CHEDDAR/JACK 50/50 SHRED, FEATHER",Contract,01/05/16,3669249.69,Dairy,Cheese
+CME Cheese,1.4169,41.776869,McAlister's Deli,01/04/16,3893296,"CHEESE, CHEDDAR/JACK 50/50 SHRED, FEATHER",Contract,01/05/16,3669249.69,Dairy,Cheese
+PPI Food,205.4639,36.847379,McAlister's Deli,01/01/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,205.8361,36.58836,McAlister's Deli,01/02/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,206.1583,39.13,McAlister's Deli,01/03/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,206.45,37.165963,McAlister's Deli,01/04/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,206.825,36.892926,McAlister's Deli,01/05/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,207.2139,37.126697,McAlister's Deli,01/06/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,207.5389,37.153688,McAlister's Deli,01/07/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,207.85,37.142064,McAlister's Deli,01/08/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.125,37.154228,McAlister's Deli,01/09/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.3167,34.746403,McAlister's Deli,01/10/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.4861,34.733441,McAlister's Deli,01/11/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.5889,34.650607,McAlister's Deli,01/12/15,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,2086217.46,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.6932,34.447587,McAlister's Deli,01/01/16,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,2086283.6,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.8381,34.423535,McAlister's Deli,01/02/16,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,2086283.6,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.9518,34.4564,McAlister's Deli,01/03/16,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,2086283.6,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,209.1179,34.487868,McAlister's Deli,01/04/16,4498882,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,2086283.6,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Cups/Containers,244.4,34.535196,McAlister's Deli,01/01/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245,34.538505,McAlister's Deli,01/02/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,244.8,34.53848,McAlister's Deli,01/03/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245.1,34.964538,McAlister's Deli,01/04/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245.7,34.811255,McAlister's Deli,01/05/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245.7,34.200012,McAlister's Deli,01/06/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245.7,21.497525,McAlister's Deli,01/07/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245.7,33.83,McAlister's Deli,01/08/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,246,33.608432,McAlister's Deli,01/09/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,245.6,33.552203,McAlister's Deli,01/10/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,247.9,33.567602,McAlister's Deli,01/11/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,248.5,33.567602,McAlister's Deli,01/12/14,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/01/15,2725950.28,Packaging & Paper,Cups
+PPI Cups/Containers,248.1,33.847815,McAlister's Deli,01/01/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,248,32.758348,McAlister's Deli,01/02/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,247.8,32.090532,McAlister's Deli,01/03/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,247.6,32.261208,McAlister's Deli,01/04/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,247.4,30.622002,McAlister's Deli,01/05/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,247.6,30.611933,McAlister's Deli,01/06/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,247.6,30.622522,McAlister's Deli,01/07/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,246.7,32.237792,McAlister's Deli,01/08/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,246.9,32.240879,McAlister's Deli,01/09/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,246.8,32.243316,McAlister's Deli,01/10/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,247,31.928313,McAlister's Deli,01/11/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,246.1,31.842805,McAlister's Deli,01/12/15,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/04/16,3764479.95,Packaging & Paper,Cups
+PPI Cups/Containers,245.4824,31.817204,McAlister's Deli,01/01/16,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/07/16,3764479.99,Packaging & Paper,Cups
+PPI Cups/Containers,245.94,30.758793,McAlister's Deli,01/02/16,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/07/16,3764479.99,Packaging & Paper,Cups
+PPI Cups/Containers,245.7982,30.489461,McAlister's Deli,01/03/16,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/07/16,3764479.99,Packaging & Paper,Cups
+PPI Cups/Containers,245.9752,30.524116,McAlister's Deli,01/04/16,3874742,"CUP, 32OZ MCALISTERS KC32",Contract,01/07/16,3764479.99,Packaging & Paper,Cups
+BLSL,133,38.562452,Moe's,01/01/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,133.3,39.12,Moe's,01/02/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,154.6,37.534603,Moe's,01/03/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,178.675,37.586604,Moe's,01/04/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,192.2,37.591663,Moe's,01/05/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,203,37.627432,Moe's,01/06/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,197.88,37.66429,Moe's,01/07/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,187,37.357885,Moe's,01/08/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,191.5,36.975017,Moe's,01/09/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,169.72,36.972527,Moe's,01/10/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,146.5,36.97599,Moe's,01/11/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,136.1,36.97599,Moe's,01/12/14,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Pre SD,01/12/15,9539151.17,Protein,Chicken - Frozen
+BLSL,141.88,37.569624,Moe's,01/01/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,141.8,37.777384,Moe's,01/02/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,146.2,37.842674,Moe's,01/03/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,160.04,37.877515,Moe's,01/04/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,164.075,37.881841,Moe's,01/05/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,145.2,37.895433,Moe's,01/06/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,135.64,37.91635,Moe's,01/07/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,147.5,37.88811,Moe's,01/08/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,130.075,37.896163,Moe's,01/09/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,111.24,37.907205,Moe's,01/10/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,109.6,37.894232,Moe's,01/11/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,109,37.913743,Moe's,01/12/15,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/16,16414232.32,Protein,Chicken - Frozen
+BLSL,115,37.896816,Moe's,01/01/16,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/17,16416808.12,Protein,Chicken - Frozen
+BLSL,113.2,37.889929,Moe's,01/02/16,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/17,16416808.12,Protein,Chicken - Frozen
+BLSL,117.64,37.883554,Moe's,01/03/16,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/17,16416808.12,Protein,Chicken - Frozen
+BLSL,122.8,36.49887,Moe's,01/04/16,4398734,"CHICKEN, BREAST WHOLE SEASONED MOE'S BULK",Contract,01/03/17,16416808.12,Protein,Chicken - Frozen
+CME Cheese,2.1979,56.757196,Moe's,01/01/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.1894,62.041055,Moe's,01/02/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.3539,69.996816,Moe's,01/03/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.2612,69.153261,Moe's,01/04/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.0326,70.647844,Moe's,01/05/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.0249,67.573505,Moe's,01/06/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,1.9879,65.011962,Moe's,01/07/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.1911,62.368864,Moe's,01/08/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.363,55.77757,Moe's,01/09/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,2.1952,69.090589,Moe's,01/10/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,1.9276,67.598456,Moe's,01/11/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,1.6029,67.598456,Moe's,01/12/14,4385419,CHEESE QUESO MOE'S,Contract,01/12/14,15774864.03,Dairy,Cheese
+CME Cheese,1.5205,59.860925,Moe's,01/01/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.5383,51.507083,Moe's,01/02/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.553,50.94932,Moe's,01/03/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.5881,51.650957,Moe's,01/04/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.6356,51.656048,Moe's,01/05/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.7134,51.672062,Moe's,01/06/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.6609,53.64138,Moe's,01/07/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.7101,54.008678,Moe's,01/08/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.6703,51.418136,Moe's,01/09/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.6629,53.468094,Moe's,01/10/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.6159,53.090751,Moe's,01/11/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.4636,53.362397,Moe's,01/12/15,4385419,CHEESE QUESO MOE'S,Contract,01/02/16,16373524.78,Dairy,Cheese
+CME Cheese,1.4757,50.040126,Moe's,01/01/16,4385419,CHEESE QUESO MOE'S,Contract,01/06/16,16450673.4,Dairy,Cheese
+CME Cheese,1.4749,49.54014,Moe's,01/02/16,4385419,CHEESE QUESO MOE'S,Contract,01/06/16,16450673.4,Dairy,Cheese
+CME Cheese,1.4867,51.398081,Moe's,01/03/16,4385419,CHEESE QUESO MOE'S,Contract,01/06/16,16450673.4,Dairy,Cheese
+CME Cheese,1.4169,52.447981,Moe's,01/04/16,4385419,CHEESE QUESO MOE'S,Contract,01/06/16,16450673.4,Dairy,Cheese
+CME Cheese,2.1979,67.106868,Moe's,01/01/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.1894,70.691865,Moe's,01/02/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.3539,75.262689,Moe's,01/03/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.2612,74.442829,Moe's,01/04/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.0326,77.870856,Moe's,01/05/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.0249,74.813037,Moe's,01/06/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,1.9879,72.815648,Moe's,01/07/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.1911,72.316708,Moe's,01/08/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.363,70.429592,Moe's,01/09/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,2.1952,72.10419,Moe's,01/10/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,1.9276,78.889506,Moe's,01/11/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,1.6029,78.889506,Moe's,01/12/14,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/01/15,12152227.33,Dairy,Cheese
+CME Cheese,1.5205,64.729844,Moe's,01/01/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.5383,62.609409,Moe's,01/02/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.553,60.988323,Moe's,01/03/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.5881,62.713131,Moe's,01/04/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.6356,62.744828,Moe's,01/05/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.7134,62.73201,Moe's,01/06/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.6609,62.732015,Moe's,01/07/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.7101,62.703682,Moe's,01/08/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.6703,62.724406,Moe's,01/09/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.6629,62.772769,Moe's,01/10/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.6159,64.087714,Moe's,01/11/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.4636,64.111814,Moe's,01/12/15,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/02/16,12686609.43,Dairy,Cheese
+CME Cheese,1.4757,61.153911,Moe's,01/01/16,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/06/16,12703292.61,Dairy,Cheese
+CME Cheese,1.4749,60.81152,Moe's,01/02/16,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/06/16,12703292.61,Dairy,Cheese
+CME Cheese,1.4867,62.142666,Moe's,01/03/16,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/06/16,12703292.61,Dairy,Cheese
+CME Cheese,1.4169,61.431009,Moe's,01/04/16,4390844,CHEESE MONT JACK/CHED FCY SHRD HORMONE FREE MOE'S,Contract,01/06/16,12703292.61,Dairy,Cheese
+Corn,429.3,16.811143,Moe's,01/01/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,445.8125,16.776772,Moe's,01/02/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,479.4375,16.760903,Moe's,01/03/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,498.1875,16.763784,Moe's,01/04/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,491.62,16.758588,Moe's,01/05/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,450.5,16.764965,Moe's,01/06/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,387.6,16.799864,Moe's,01/07/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,359.0625,16.728492,Moe's,01/08/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,341.975,16.61,Moe's,01/09/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,343.1,16.304804,Moe's,01/10/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,371.9375,16.28162,Moe's,01/11/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,400.0625,16.28162,Moe's,01/12/14,2089384,TORTILLA CORN CHIP 1/4 CUT,Pre SD,01/03/15,8919475.15,Grains Doughs & Batters,Tortillas
+Corn,398.27,16.114195,Moe's,01/01/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,382.75,16.591471,Moe's,01/02/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,386.5,16.572316,Moe's,01/03/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,377.75,16.683971,Moe's,01/04/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,361.1875,16.685683,Moe's,01/05/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,356.4375,16.685848,Moe's,01/06/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,405.7,16.850464,Moe's,01/07/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,372.1875,16.84289,Moe's,01/08/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,377.5,16.846397,Moe's,01/09/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,383.7,16.702987,Moe's,01/10/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,367.625,16.70577,Moe's,01/11/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,370,16.710457,Moe's,01/12/15,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/03/16,11286099.05,Grains Doughs & Batters,Tortillas
+Corn,360.1875,16.749572,Moe's,01/01/16,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/06/16,11300528.5,Grains Doughs & Batters,Tortillas
+Corn,366,16.750224,Moe's,01/02/16,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/06/16,11300528.5,Grains Doughs & Batters,Tortillas
+Corn,364.25,16.74832,Moe's,01/03/16,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/06/16,11300528.5,Grains Doughs & Batters,Tortillas
+Corn,367.3125,16.792777,Moe's,01/04/16,2089384,TORTILLA CORN CHIP 1/4 CUT,Contract,01/06/16,11300528.5,Grains Doughs & Batters,Tortillas
+Pork Bellies,104.3,41.308825,Shoney's,01/01/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,91.55,38.635883,Shoney's,01/02/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,74.95,39.913372,Shoney's,01/03/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,67.76,37.009249,Shoney's,01/04/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,77.925,30.755611,Shoney's,01/05/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,103.45,29.47206,Shoney's,01/06/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,136.44,31.007126,Shoney's,01/07/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,171.45,34.429502,Shoney's,01/08/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,161.75,42.650178,Shoney's,01/09/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,160.48,55.416027,Shoney's,01/10/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,122.325,57.308441,Shoney's,01/11/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,109.68,57.036746,Shoney's,01/12/15,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/02/16,3207390.37,Protein,Pork
+Pork Bellies,114.05,56.166154,Shoney's,01/01/16,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/05/16,3207390.37,Protein,Pork
+Pork Bellies,126.6,42.573426,Shoney's,01/02/16,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/05/16,3207390.37,Protein,Pork
+Pork Bellies,132.84,37.817431,Shoney's,01/03/16,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/05/16,3207390.37,Protein,Pork
+Pork Bellies,129,43.226012,Shoney's,01/04/16,4175164,EZ PAN LAYOUT BACON 18 - 22 ct.,Contract,01/05/16,3207390.37,Protein,Pork
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.0567,4.378767,Sizzler,01/01/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.23,4.802861,Sizzler,01/02/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.2434,5.351752,Sizzler,01/03/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.5945,5.363801,Sizzler,01/04/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.7264,5.361113,Sizzler,01/05/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.7601,5.350405,Sizzler,01/06/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",4.6007,5.353149,Sizzler,01/07/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.8587,5.357191,Sizzler,01/08/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.3646,5.350707,Sizzler,01/09/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.1302,5.350642,Sizzler,01/10/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.5605,5.353127,Sizzler,01/11/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.4665,5.349655,Sizzler,01/12/15,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/06/16,4463655.61,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.3118,5.103934,Sizzler,01/01/16,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/12/16,4561788.18,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",2.8696,4.626634,Sizzler,01/02/16,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/12/16,4561788.18,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",2.925,4.626111,Sizzler,01/03/16,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/12/16,4561788.18,Protein,Beef
+"185C, 1 Loin, Srln, Tri-tip, USDA",3.338,4.626083,Sizzler,01/04/16,3722743,FRESH Steak Ready Choice Tri Tips,Contract,01/12/16,4561788.18,Protein,Beef
+KC Wheat (HRW),601.55,25.028191,The Counter,01/01/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),548.1875,25.0351,The Counter,01/02/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),546.4375,24.993493,The Counter,01/03/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),536.1,24.99252,The Counter,01/04/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),521.625,24.999479,The Counter,01/05/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),519.875,25.001431,The Counter,01/06/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),551.2,24.993758,The Counter,01/07/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),487.875,25.234681,The Counter,01/08/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),481.875,25.10637,The Counter,01/09/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),492.35,25.107041,The Counter,01/10/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),472.1875,25.107565,The Counter,01/11/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),471.85,25.107432,The Counter,01/12/15,2924404,"BREAD BUN BRIOCHE HMSTYL 4"" BK",Client Contr,01/12/16,285537.42,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),465.8125,24.760304,The Counter,01/01/16,2924404,BREAD BUN BRIOCHE HMSTYL 4 BK,Client Contr,01/12/16,249992.04,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),454.1875,24.758628,The Counter,01/02/16,2924404,BREAD BUN BRIOCHE HMSTYL 4 BK,Client Contr,01/12/16,249992.04,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),471.3,24.757638,The Counter,01/03/16,2924404,BREAD BUN BRIOCHE HMSTYL 4 BK,Client Contr,01/12/16,249992.04,Grains Doughs & Batters,Sandwich Buns
+KC Wheat (HRW),461.5625,24.757907,The Counter,01/04/16,2924404,BREAD BUN BRIOCHE HMSTYL 4 BK,Client Contr,01/12/16,249992.04,Grains Doughs & Batters,Sandwich Buns
+Beef 81s (Str/Hfr Source),3.0783,103.518608,The Counter,01/01/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.8775,105.926415,The Counter,01/02/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.8131,108.563193,The Counter,01/03/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.7716,108.335201,The Counter,01/04/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.6758,108.56483,The Counter,01/05/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.7823,98.468165,The Counter,01/06/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.7229,100.285476,The Counter,01/07/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.615,99.595336,The Counter,01/08/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.5614,96.549582,The Counter,01/09/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.3353,102.597855,The Counter,01/10/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.1363,96.205876,The Counter,01/11/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),1.968,98.370767,The Counter,01/12/15,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/01/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.6106,95.784579,The Counter,01/01/16,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/05/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.2762,82.724111,The Counter,01/02/16,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/05/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.066,86.765889,The Counter,01/03/16,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/05/16,3137037.02,Protein,Beef
+Beef 81s (Str/Hfr Source),2.0882,94.535275,The Counter,01/04/16,4170714,BEEF CHUCK ANGUS PUCK NAT 7 OZ,Contract,01/05/16,3137037.02,Protein,Beef
+PPI Spices,222.3,66.747477,HuHot Mongolian Grill,01/01/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,223.4,68.052531,HuHot Mongolian Grill,01/02/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,221.8,67.031878,HuHot Mongolian Grill,01/03/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,222.1,67.080495,HuHot Mongolian Grill,01/04/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,222.5,68.619617,HuHot Mongolian Grill,01/05/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,221.4,67.345098,HuHot Mongolian Grill,01/06/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,220.3,67.25806,HuHot Mongolian Grill,01/07/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,222.4,67.262159,HuHot Mongolian Grill,01/08/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,222.6,66.898016,HuHot Mongolian Grill,01/09/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,223.8,67.779552,HuHot Mongolian Grill,01/10/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,224.4,67.897365,HuHot Mongolian Grill,01/11/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,226.7,68.78541,HuHot Mongolian Grill,01/12/14,3032154,Samuri Teriyaki,Contract,01/04/15,440083.68,Gravies Sauces & Soups,Sauces
+PPI Spices,227.7,66.916559,HuHot Mongolian Grill,01/01/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,228.6,67.017822,HuHot Mongolian Grill,01/02/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,229.7,67.205567,HuHot Mongolian Grill,01/03/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,229.5,67.072149,HuHot Mongolian Grill,01/04/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,231.6,67.248892,HuHot Mongolian Grill,01/05/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,228.2,66.977393,HuHot Mongolian Grill,01/06/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,232,65.059917,HuHot Mongolian Grill,01/07/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.8,65.040945,HuHot Mongolian Grill,01/08/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.7,65.092539,HuHot Mongolian Grill,01/09/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.1,67.284596,HuHot Mongolian Grill,01/10/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.1,65.172868,HuHot Mongolian Grill,01/11/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,229.9,65.12599,HuHot Mongolian Grill,01/12/15,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,229.8123,66.382895,HuHot Mongolian Grill,01/01/16,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.5131,66.442576,HuHot Mongolian Grill,01/02/16,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.6159,66.464149,HuHot Mongolian Grill,01/03/16,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Spices,230.8875,66.574059,HuHot Mongolian Grill,01/04/16,3032154,Samuri Teriyaki,Contract,01/06/16,445524.38,Gravies Sauces & Soups,Sauces
+PPI Food,199.3139,87.438518,HuHot Mongolian Grill,01/01/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,199.6611,88.435859,HuHot Mongolian Grill,01/02/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,200.0917,86.645267,HuHot Mongolian Grill,01/03/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,200.6417,86.744062,HuHot Mongolian Grill,01/04/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,201.2306,87.675945,HuHot Mongolian Grill,01/05/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,201.8222,87.185094,HuHot Mongolian Grill,01/06/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,202.4222,87.08367,HuHot Mongolian Grill,01/07/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,202.9583,87.085629,HuHot Mongolian Grill,01/08/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,203.45,86.88422,HuHot Mongolian Grill,01/09/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,204.0167,87.62669,HuHot Mongolian Grill,01/10/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,204.5111,87.530317,HuHot Mongolian Grill,01/11/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,205.0167,87.414344,HuHot Mongolian Grill,01/12/14,3032160,Burn Your Village BBQ,Contract,01/04/15,144263.3,Gravies Sauces & Soups,Sauces
+PPI Food,205.4639,86.115454,HuHot Mongolian Grill,01/01/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,205.8361,87.05421,HuHot Mongolian Grill,01/02/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,206.1583,87.193241,HuHot Mongolian Grill,01/03/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,206.45,86.954513,HuHot Mongolian Grill,01/04/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,206.825,86.655616,HuHot Mongolian Grill,01/05/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,207.2139,87.095522,HuHot Mongolian Grill,01/06/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,207.5389,85.56068,HuHot Mongolian Grill,01/07/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,207.85,85.746433,HuHot Mongolian Grill,01/08/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.125,84.864427,HuHot Mongolian Grill,01/09/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.3167,86.877625,HuHot Mongolian Grill,01/10/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.4861,84.94832,HuHot Mongolian Grill,01/11/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.5889,84.732631,HuHot Mongolian Grill,01/12/15,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.6932,86.175753,HuHot Mongolian Grill,01/01/16,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.8381,86.204503,HuHot Mongolian Grill,01/02/16,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,208.9518,86.281776,HuHot Mongolian Grill,01/03/16,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,209.1179,86.510347,HuHot Mongolian Grill,01/04/16,3032160,Burn Your Village BBQ,Contract,01/06/16,145688.52,Gravies Sauces & Soups,Sauces
+PPI Food,205.4639,39.021691,Schlotzsky's,01/01/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,205.8361,41.824945,Schlotzsky's,01/02/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,206.1583,41.516781,Schlotzsky's,01/03/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,206.45,41.378455,Schlotzsky's,01/04/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,206.825,41.367666,Schlotzsky's,01/05/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,207.2139,41.522089,Schlotzsky's,01/06/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,207.5389,43.058365,Schlotzsky's,01/07/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,207.85,43.259323,Schlotzsky's,01/08/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.125,43.255028,Schlotzsky's,01/09/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.3167,43.256087,Schlotzsky's,01/10/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.4861,41.069527,Schlotzsky's,01/11/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.5889,41.070606,Schlotzsky's,01/12/15,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/03/16,1274940.8,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.6932,41.060518,Schlotzsky's,01/01/16,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,1274939.2,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.8381,41.06594,Schlotzsky's,01/02/16,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,1274939.2,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,208.9518,41.050132,Schlotzsky's,01/03/16,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,1274939.2,Gravies Sauces & Soups,Soups/Gumbos/Chili
+PPI Food,209.1179,40.072223,Schlotzsky's,01/04/16,3857506,"SOUP, BROCCOLI CHEESE",Contract,01/06/16,1274939.2,Gravies Sauces & Soups,Soups/Gumbos/Chili
+KC Wheat (HRW),601.55,24.794037,Schlotzsky's,01/01/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),548.1875,25.161072,Schlotzsky's,01/02/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),546.4375,25.112198,Schlotzsky's,01/03/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),536.1,24.559313,Schlotzsky's,01/04/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),521.625,24.534257,Schlotzsky's,01/05/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),519.875,24.526721,Schlotzsky's,01/06/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),551.2,24.574739,Schlotzsky's,01/07/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),487.875,24.627295,Schlotzsky's,01/08/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),481.875,24.531712,Schlotzsky's,01/09/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),492.35,24.410905,Schlotzsky's,01/10/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),472.1875,24.4154,Schlotzsky's,01/11/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),471.85,24.397315,Schlotzsky's,01/12/15,130387,"BUN MIX, SOURDOUGH",Contract,01/03/16,2918952.31,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),465.8125,23.612575,Schlotzsky's,01/01/16,130387,"BUN MIX, SOURDOUGH",Contract,01/07/16,2918659.5,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),454.1875,23.605566,Schlotzsky's,01/02/16,130387,"BUN MIX, SOURDOUGH",Contract,01/07/16,2918659.5,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),471.3,23.614039,Schlotzsky's,01/03/16,130387,"BUN MIX, SOURDOUGH",Contract,01/07/16,2918659.5,Grains Doughs & Batters,Doughs
+KC Wheat (HRW),461.5625,23.599217,Schlotzsky's,01/04/16,130387,"BUN MIX, SOURDOUGH",Contract,01/07/16,2918659.5,Grains Doughs & Batters,Doughs
