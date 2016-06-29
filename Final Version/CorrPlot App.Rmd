@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
 require(ggplot2)
 require(DataCombine)
 require(gridExtra)
+require(xtable)
 #require(ggthemes)
 ```
 
@@ -32,6 +33,7 @@ for (i in 1:length(items)){
 }
 
 com$MonthDate<-as.Date(com$MonthDate, "%m/%d/%Y")
+com$ExpirationDate<-as.Date(com$ExpirationDate, "%m/%d/%Y")
 
 com<-slide(data=com, Var = 'stdcom', NewVar = 'stdcom1', GroupVar = 'ASItemNo', slideBy = -1)
 
@@ -90,10 +92,10 @@ renderUI({paste(" Correlation Co-eff with 3 Months lag: ", tcordf()$`R Sqr 3 Lag
 ```
 
 ```{r print_tcomdf,echo=FALSE}
-renderText({paste("Item Name: ",tcomdf()$Commodity[1])})
+renderText({paste("Commodity Name: ",tcomdf()$Commodity[1])})
 renderText({paste("Description: ",tcomdf()$Description[1])})
 renderText({paste("Spend: $",tcomdf()$Spend[1])})
-renderText({paste("Expiration Date: ",tcomdf()$ExpirationDate[1])})
+renderText({paste("Expiration Date: ",max(tcomdf()$ExpirationDate,na.rm = TRUE))})
 renderText({paste("Client Name: ",tcomdf()$Client[1])})
 ```
 
