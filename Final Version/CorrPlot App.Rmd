@@ -19,7 +19,7 @@ require(xtable)
 
 
 ```{r execute,echo=FALSE,cache=TRUE}
-com = read.csv("~/Desktop/Comm.csv")
+com = read.csv("C:/Users/agovindakamath/Desktop/Comm.csv")
 
 items<-as.factor(unique(com$ASItemNo))
 
